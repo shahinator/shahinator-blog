@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Visit Shahinator Blog using Ruby on Rails Web Application, Bootstrap 4, Proper User Security, i think that it will be help for increasing you knowledge.So lets go..
 
-Things you may want to cover:
+Shahinator Blog Application Features:
 
-* Ruby version
+* Ruby version 2.6.2
 
-* System dependencies
+* Rails version 5.2.0
 
-* Configuration
+* Bootstrap 3.4.0
 
-* Database creation
+* PostPreSQL
 
-* Database initialization
+* HTML5
 
-* How to run the test suite
+* CSS3
 
-* Services (job queues, cache servers, search engines, etc.)
+* Form Validation 
 
-* Deployment instructions
+* User Faxibilities
 
-* ...
+* 100% User Friendly
+
+* All Blog Featured Add Here
+
+* So on ...
