@@ -84,3 +84,31 @@ li.dropdown.open{
     border-top: 1px solid #eaeaea;
     margin-top: 15px;
 }
+.footer-area{
+    overflow: hidden;
+}
+.listing{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    li{
+        margin: 15px 0;
+        &.article-title{
+            font-weight: 600;
+            font-size: 36px;
+            text-transform: capitalize;
+            margin-bottom: 15px;
+            padding-bottom: 15;
+            border-bottom: 1px solid #ddd;
+            a{
+                color: #000;
+                text-decoration: none;
+                &:hover{
+                    color: #ff0000;
+                }
+            }
+
+        }
+    }
+}

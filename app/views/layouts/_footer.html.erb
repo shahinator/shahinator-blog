@@ -1,11 +1,13 @@
-<div class="container">
-    <footer class="footer text-center">
-        <small>Copyright &copy; <a href="#"> Shahinator Blog </a> All Copyright By Shahin</small>
+<div class="footer-area">
+    <div class="container">
+        <footer class="footer text-center">
+            <small>Copyright &copy; <a href="#"> Shahinator Blog </a> All Copyright By Shahin</small>
+        </div>
+        <nav>
+            <ul>
+                <li><%= link_to  "Articles", articles_path %></li>
+                <li><%= link_to  "New Article", new_article_path %></li>
+            </ul>
+        </nav>
     </div>
-    <nav>
-        <ul>
-            <li><%= link_to  "Articles", articles_path %></li>
-            <li><%= link_to  "New Article", new_article_path %></li>
-        </ul>
-    </nav>
 </div>
