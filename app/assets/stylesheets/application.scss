@@ -95,12 +95,12 @@ li.dropdown.open{
     li{
         margin: 15px 0;
         &.article-title{
-            font-weight: 600;
-            font-size: 36px;
+            font-weight: 700;
+            font-size: 16px;
             text-transform: capitalize;
             margin-bottom: 15px;
-            padding-bottom: 15;
-            border-bottom: 1px solid #ddd;
+            padding-bottom: 15px;
+            border-bottom: 1px dashed #a05353;
             a{
                 color: #000;
                 text-decoration: none;
